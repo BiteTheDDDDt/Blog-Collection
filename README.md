@@ -22,3 +22,7 @@
 * [Hacker News Daily](https://www.daemonology.net/hn-daily)
 * [戈德的语雀](https://www.yuque.com/gamergodot)
 * [徐靖峰的个人博客](https://www.cnkirito.moe)
+* [laike9m's blog](https://laike9m.com/blog/)
+* [樱花庄的白猫](https://2heng.xin/)
+* [Reimu's blog](https://blog.k8s.li/)
+* [OpenACID Blog](https://blog.openacid.com/)
