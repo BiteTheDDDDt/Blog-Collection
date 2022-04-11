@@ -20,3 +20,4 @@
 * [记录程序和数学的点滴](https://izlyforever.com)
 * [雷鹏's Blog](http://nark.cc)
 * [Hacker News Daily](https://www.daemonology.net/hn-daily)
+* [戈德的语雀](https://www.yuque.com/gamergodot)
