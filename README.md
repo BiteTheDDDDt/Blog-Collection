@@ -1,3 +1,22 @@
 # Blog-Collection
-记录一些收藏的博客，顺序随机。
+记录一些收藏的博客和文章来源，顺序随机。
 
+* [冰霜之地](https://halfrost.com)
+* [Listenerri's Blog](http://www.listenerri.com)
+* [叉鸽Mrcroxx的博客](https://mrcroxx.github.io/posts)
+* [Mind Hacks](http://mindhacks.cn)
+* [当然我在扯淡](http://www.yinwang.org)
+* [luozhiyun's Blog](https://www.luozhiyun.com)
+* [阮一峰的网络日志](https://www.ruanyifeng.com/blog)
+* [awesomekling'S Blog](https://awesomekling.github.io)
+* [LeeHappen's Blog](https://www.jianshu.com/u/f4b1c52b7784)
+* [小羊儿的心情天空](https://www.90yang.com)
+* [An Amateur Programmer's Blog](https://dirtysalt.github.io/html/blogs.html)
+* [云风的BLOG](https://blog.codingnow.com)
+* [寒霜之晨](https://moevis.github.io)
+* [Matrix67](http://www.matrix67.com/blog)
+* [虎哥的博客](https://bohutang.me)
+* [Red Blob Games](https://www.redblobgames.com)
+* [记录程序和数学的点滴](https://izlyforever.com)
+* [雷鹏's Blog](http://nark.cc)
+* [Hacker News Daily](https://www.daemonology.net/hn-daily)
