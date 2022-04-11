@@ -21,3 +21,4 @@
 * [雷鹏's Blog](http://nark.cc)
 * [Hacker News Daily](https://www.daemonology.net/hn-daily)
 * [戈德的语雀](https://www.yuque.com/gamergodot)
+* [徐靖峰的个人博客](https://www.cnkirito.moe)
