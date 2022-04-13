@@ -31,3 +31,5 @@
 * [沧海月明](https://www.inlighting.org)
 * [胡小兔的OI博客](https://www.cnblogs.com/RabbitHu)
 * [Milo的游戏开发](https://www.cnblogs.com/miloyip)
+* [ClickHouse的秘密基地](https://cloud.tencent.com/developer/column/84496)
+* [Postgres 世界动态](https://cloud.tencent.com/developer/column/91942)
