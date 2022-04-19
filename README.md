@@ -34,3 +34,4 @@
 * [ClickHouse的秘密基地](https://cloud.tencent.com/developer/column/84496)
 * [Postgres 世界动态](https://cloud.tencent.com/developer/column/91942)
 * [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
+* [Clickhouse's Talks index](https://presentations.clickhouse.com/talks_index.html)
