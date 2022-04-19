@@ -35,3 +35,7 @@
 * [Postgres 世界动态](https://cloud.tencent.com/developer/column/91942)
 * [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
 * [Clickhouse's Talks index](https://presentations.clickhouse.com/talks_index.html)
+* [MySQL数据库月报](http://mysql.taobao.org/monthly/)
+* [CodingLabs](https://blog.codinglabs.org/)
+* [phiresky's blog](https://phiresky.netlify.app/blog/)
+* [codedump的网络日志](https://www.codedump.info/)
