@@ -40,3 +40,4 @@
 * [phiresky's blog](https://phiresky.netlify.app/blog/)
 * [codedump的网络日志](https://www.codedump.info/)
 * [Skywind Inside](http://www.skywind.me/blog)
+* [Algorithmica](https://en.algorithmica.org/)
