@@ -46,3 +46,4 @@
 * [Singularity Data's Blog](https://singularity-data.com/blog/)
 * [zhmin's Blog](https://zhmin.github.io/)
 * [Performance Matters](https://travisdowns.github.io/)
+* [x86-intrin-cheatsheet](https://db.in.tum.de/~finis/x86-intrin-cheatsheet-v2.2.pdf)
