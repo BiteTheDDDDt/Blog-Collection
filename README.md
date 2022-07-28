@@ -48,3 +48,5 @@
 * [Performance Matters](https://travisdowns.github.io/)
 * [x86-intrin-cheatsheet](https://db.in.tum.de/~finis/x86-intrin-cheatsheet-v2.2.pdf)
 * [DK博客](https://greatdk.com/)
+* [数据系统论文阅读小组](https://zhuanlan.zhihu.com/db-readings)
+* [分布式思考](https://www.zhihu.com/column/c_1441725415139889153)
