@@ -51,3 +51,4 @@
 * [数据系统论文阅读小组](https://zhuanlan.zhihu.com/db-readings)
 * [分布式思考](https://www.zhihu.com/column/c_1441725415139889153)
 * [C++中文周刊](https://github.com/wanghenshui/cppweeklynews)
+* [Ray Eldath's Blog](https://ray-eldath.me/)
