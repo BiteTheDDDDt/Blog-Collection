@@ -52,3 +52,4 @@
 * [分布式思考](https://www.zhihu.com/column/c_1441725415139889153)
 * [C++中文周刊](https://github.com/wanghenshui/cppweeklynews)
 * [Ray Eldath's Blog](https://ray-eldath.me/)
+* [Daniel Lemire's blog](https://lemire.me/blog/)
