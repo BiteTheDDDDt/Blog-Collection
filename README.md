@@ -54,3 +54,4 @@
 * [Ray Eldath's Blog](https://ray-eldath.me)
 * [Daniel Lemire's blog](https://lemire.me/blog)
 * [Clickhouse's Blog](https://clickhouse.com/blog)
+* [DuckDB's Talks](https://dsdsd.da.cwi.nl/past_talks)
