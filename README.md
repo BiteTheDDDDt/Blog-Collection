@@ -55,3 +55,4 @@
 * [Daniel Lemire's blog](https://lemire.me/blog)
 * [Clickhouse's Blog](https://clickhouse.com/blog)
 * [DuckDB's Talks](https://dsdsd.da.cwi.nl/past_talks)
+* [谭新宇的博客](https://tanxinyu.work/)
