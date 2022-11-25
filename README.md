@@ -56,3 +56,4 @@
 * [Clickhouse's Blog](https://clickhouse.com/blog)
 * [DuckDB's Talks](https://dsdsd.da.cwi.nl/past_talks)
 * [谭新宇的博客](https://tanxinyu.work/)
+* [Sray's Blog](https://yygq.srayu.ws/)
