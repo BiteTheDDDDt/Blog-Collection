@@ -58,3 +58,4 @@
 * [谭新宇的博客](https://tanxinyu.work/)
 * [Sray's Blog](https://yygq.srayu.ws/)
 * [Eleven's Blog](https://blog.eleven.wiki/)
+* [FuZhe's Blog](https://fuzhe1989.github.io/)
