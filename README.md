@@ -60,3 +60,4 @@
 * [Eleven's Blog](https://blog.eleven.wiki/)
 * [FuZhe's Blog](https://fuzhe1989.github.io/)
 * [叔叔的博客](https://zclll.com/)
+* [Bartosz Ciechanowski](https://ciechanow.ski/)
