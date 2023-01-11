@@ -64,3 +64,4 @@
 * [orczhou](https://www.orczhou.com/)
 * [Baurine' Blog](https://baurine.netlify.app/)
 * [nathanmarz](http://nathanmarz.com/)
+* [Agner Fog's Research](https://www.agner.org/)
