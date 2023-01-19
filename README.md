@@ -65,3 +65,4 @@
 * [Baurine' Blog](https://baurine.netlify.app/)
 * [nathanmarz](http://nathanmarz.com/)
 * [Agner Fog's Research](https://www.agner.org/)
+* [Farseerfc的小窩](https://farseerfc.me/)
