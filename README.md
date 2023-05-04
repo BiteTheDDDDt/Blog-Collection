@@ -67,4 +67,5 @@
 * [Agner Fog's Research](https://www.agner.org/)
 * [Farseerfc的小窩](https://farseerfc.me/)
 * [MaskRay](https://maskray.me/blog/)
-* [ucasfl](https://ucasfl.github.io/)
+* [ucasfl](https://ucasfl.github.io/) 
+* [c4pt0r(黄东旭)的博客](http://blog.0xffff.me/)
