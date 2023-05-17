@@ -72,3 +72,4 @@
 * [Arthur O’Dwyer](https://quuxplusone.github.io/blog/)
 * [CoolShell](https://coolshell.cn/)
 * [David Heinemeier Hansson's Blog](https://world.hey.com/dhh/)
+* [Lukas Barth's Blog](https://www.lukas-barth.net/)
