@@ -74,3 +74,4 @@
 * [David Heinemeier Hansson's Blog](https://world.hey.com/dhh/)
 * [Lukas Barth's Blog](https://www.lukas-barth.net/)
 * [I'm OWenT](https://owent.net/)
+* [emmymiao87's Blog](https://emmymiao87.github.io/)
