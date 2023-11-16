@@ -75,3 +75,4 @@
 * [Lukas Barth's Blog](https://www.lukas-barth.net/)
 * [I'm OWenT](https://owent.net/)
 * [emmymiao87's Blog](https://emmymiao87.github.io/)
+* [iswade's blog](https://iswade.github.io/)
