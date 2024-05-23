@@ -2,7 +2,6 @@
 记录一些收藏的博客和文章来源，顺序随机。
 
 * [冰霜之地](https://halfrost.com)
-* [Listenerri's Blog](http://www.listenerri.com)
 * [叉鸽Mrcroxx的博客](https://mrcroxx.github.io/posts)
 * [Mind Hacks](http://mindhacks.cn)
 * [当然我在扯淡](http://www.yinwang.org)
@@ -10,7 +9,6 @@
 * [阮一峰的网络日志](https://www.ruanyifeng.com/blog)
 * [awesomekling'S Blog](https://awesomekling.github.io)
 * [LeeHappen's Blog](https://www.jianshu.com/u/f4b1c52b7784)
-* [小羊儿的心情天空](https://www.90yang.com)
 * [An Amateur Programmer's Blog](https://dirtysalt.github.io/html/blogs.html)
 * [云风的BLOG](https://blog.codingnow.com)
 * [寒霜之晨](https://moevis.github.io)
@@ -76,3 +74,4 @@
 * [I'm OWenT](https://owent.net/)
 * [emmymiao87's Blog](https://emmymiao87.github.io/)
 * [iswade's blog](https://iswade.github.io/)
+* [王很水的笔记](https://wanghenshui.github.io/)
