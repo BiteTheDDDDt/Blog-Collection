@@ -75,3 +75,4 @@
 * [emmymiao87's Blog](https://emmymiao87.github.io/)
 * [iswade's blog](https://iswade.github.io/)
 * [王很水的笔记](https://wanghenshui.github.io/)
+* [lovestblog](http://lovestblog.cn/)
