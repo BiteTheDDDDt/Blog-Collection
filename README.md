@@ -46,6 +46,7 @@
 * [王很水的笔记](https://wanghenshui.github.io/)
 * [Andreas Fertig's Blog](https://andreasfertig.blog/)
 * [database-doctor](https://www.database-doctor.com/)
+* [johnnysswlab](https://johnnysswlab.com/)
 
 # Unfreshed
 * [小羊儿的心情天空](https://www.90yang.com)
