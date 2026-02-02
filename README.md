@@ -47,6 +47,7 @@
 * [Andreas Fertig's Blog](https://andreasfertig.blog/)
 * [database-doctor](https://www.database-doctor.com/)
 * [johnnysswlab](https://johnnysswlab.com/)
+* [做有积累的事情](https://baotiao.github.io/)
 
 # Unfreshed
 * [小羊儿的心情天空](https://www.90yang.com)
