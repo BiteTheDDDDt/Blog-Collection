@@ -48,6 +48,7 @@
 * [database-doctor](https://www.database-doctor.com/)
 * [johnnysswlab](https://johnnysswlab.com/)
 * [做有积累的事情](https://baotiao.github.io/)
+* [科学空间(苏剑林的博客)](https://spaces.ac.cn/)
 
 # Unfreshed
 * [小羊儿的心情天空](https://www.90yang.com)
